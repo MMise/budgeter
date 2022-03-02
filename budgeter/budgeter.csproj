@@ -10,8 +10,4 @@
     <None Remove="1cc.png" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Resource Include="1cc.png" />
-  </ItemGroup>
-
 </Project>
